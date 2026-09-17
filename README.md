@@ -78,9 +78,6 @@ flowchart TD
 ├── results/               # Final viral contigs, phylogenies, and figures
 └── README.md
 ```
-
-*(Adjust the tree above to match your actual folder layout.)*
-
 ---
 
 ## ⚙️ Methods Summary
