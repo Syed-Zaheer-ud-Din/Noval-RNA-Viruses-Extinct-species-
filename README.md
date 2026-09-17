@@ -1,8 +1,7 @@
-### AI-Powered Discovery of Novel RNA Viruses from the Permafrost of a 14,300-Year-Old Pleistocene Wolf
 
 This repository contains the computational pipeline, scripts, and technical resources associated with the manuscript:
 
-> **Paleotranscriptomic mining of extinct species reveals novel RNA viruses from a 14,300-year-old Pleistocene canid**  
+> ** AI-Powered Discovery of Novel RNA Viruses from the Permafrost of a 14,300-Year-Old Pleistocene Wolf**  
 > Syed Zaheer ud Din, Q. Wu  
 > *bioRxiv* (2026). DOI: [TO BE ADDED]
 
