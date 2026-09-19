@@ -6,9 +6,6 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/status-preprint%20in%20progress-yellow)](#)
-
-> **TL;DR:** Using an AI-driven protein language model (Lucaprot) combined with AlphaFold2 structural validation, we mined publicly available RNA-seq datasets from extinct megafauna and discovered two novel, deeply divergent RNA viruses inside a **14,300-year-old Pleistocene gray wolf** carcass — pushing the known preservation window for intact RNA viruses from centuries to over fourteen millennia.
-
 ---
 
 ## 📌 Overview
