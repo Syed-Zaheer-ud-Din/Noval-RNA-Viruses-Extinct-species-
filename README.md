@@ -1,7 +1,5 @@
 # 🧬 AI-Powered Discovery of Novel RNA Viruses from Pleistocene Permafrost
 
-**Paleotranscriptomic mining of ancient and extinct host genomes reveals two previously unknown RNA viruses in a 14,300-year-old Pleistocene wolf**
-
 [![bioRxiv](https://img.shields.io/badge/preprint-bioRxiv-red)](#)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)
