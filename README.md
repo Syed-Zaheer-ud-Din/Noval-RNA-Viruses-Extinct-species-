@@ -101,7 +101,7 @@ Full methodological detail is provided in the manuscript (see [Preprint](#-citat
 
 If you use this pipeline, data, or findings, please cite:
 
-> Zaheer ud Din, S. & Wu, Q. (2026). *AI-Powered Discovery of Novel RNA Viruses from the Permafrost of a 14,300-Year-Old Pleistocene Wolf.* bioRxiv preprint. [Link to be added upon posting]
+> Zaheer ud Din, S. & Wu, Q. (2026). *AI-Powered Discovery of Novel RNA Viruses from the Permafrost of a 14,300-Year-Old Pleistocene Wolf.* bioRxiv preprint. (https://doi.org/10.64898/2026.09.17.746571)
 
 ```bibtex
 @article{zaheeruddin2026permafrostrnaviruses,
@@ -110,15 +110,7 @@ If you use this pipeline, data, or findings, please cite:
   journal = {bioRxiv},
   year    = {2026}
 }
-```
-
----
-
-## 🧾 Data Availability
-
-- Raw RNA-seq data: **NCBI SRA** (accession list in [`data/`](./data))
-- Novel viral consensus sequences: **NCBI GenBank**, submission ID `SUB16436308`
-- Analysis code: this repository
+``
 
 ---
 
@@ -126,9 +118,6 @@ If you use this pipeline, data, or findings, please cite:
 
 **Syed Zaheer ud Din**
 Division of Life Sciences and Medicine, University of Science and Technology of China (USTC)
-📧 [Add your email or lab page link]
-🔗 [LinkedIn](#) · [Google Scholar](#) · [ORCID](#)
-
 **Corresponding author:** Qingfa Wu ([wuqf@ustc.edu.cn](mailto:wuqf@ustc.edu.cn)), Key Laboratory of Anhui Province for Emerging and Reemerging Infectious Diseases, USTC
 
 ---
